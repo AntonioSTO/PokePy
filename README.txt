@@ -1,6 +1,6 @@
 Pokepy by Antonio Sant'Ana e Arthur Trarbach
 Twitter: @Antoniost20 e @TrarbachArthur
-Email: arthurtrarbach.sampaio@gmail.com
+Email: arthurtrarbach.sampaio@gmail.com e antoniostoliveira20@gmail.com
 
 Jogo feito para avaliação final no curso introcomp.
 
