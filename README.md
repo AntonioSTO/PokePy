@@ -5,6 +5,7 @@ Twitter: @Antoniost20 e @TrarbachArthur
 Email: arthurtrarbach.sampaio@gmail.com e antoniostoliveira20@gmail.com
 
 Jogo feito para avaliação final no curso introcomp: 
+
 	- Baseado nas batalhas dos jogos de Pokemon
 	- Feito com a biblioteca pygame
 
