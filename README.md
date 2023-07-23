@@ -1,16 +1,16 @@
-#Pokepy by Antonio Sant'Ana e Arthur Trarbach
-#Twitter: @Antoniost20 e @TrarbachArthur
-#Email: arthurtrarbach.sampaio@gmail.com e antoniostoliveira20@gmail.com
+Pokepy by Antonio Sant'Ana e Arthur Trarbach
+Twitter: @Antoniost20 e @TrarbachArthur
+Email: arthurtrarbach.sampaio@gmail.com e antoniostoliveira20@gmail.com
 
-#Jogo feito para avaliação final no curso introcomp.
+Jogo feito para avaliação final no curso introcomp.
 
-#Como jogar:
+Como jogar:
 
 	- Mover seleção: Setas
 	- Selecionar: Enter
 	- Retornar seleção: Esc
 
-#Funçoes Extras: 
+Funçoes Extras: 
 	
 	- Animação da barra de vida
 	- Implementação do pp como limitador para o uso da habilidade
